@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on open-source Infra-as-Code tooling, cloud automation, and AV-related tech for engineers & creators.
 - 📫 Reach me: [LinkedIn](https://linkedin.com/in/marios-t-pavlou-77830561/) | 📧 **mariostpavlou@gmail.com**
 - 🌍 Websites:
-  - Portfolio: [mariospavlougui.vercel.app](https:/mariospavlougui.vercel.app)
+  - Portfolio: [mariospavlougui.vercel.app](https://mariospavlougui.vercel.app)
   - CLI Site: [mariospavlou.vercel.app](https://mariospavlou.vercel.app)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a CCNP-certified network engineer and a drummer with a deep love for sound design, automation, and tech that just works.
